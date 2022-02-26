@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155240254949",
+    "project_id": "jannuzzi-e0eed",
+    "storage_bucket": "jannuzzi-e0eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155240254949:android:66fedc15ae84fd6bd5f30c",
+        "android_client_info": {
+          "package_name": "com.jannuzzi.ecultureexp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155240254949-f3565kdnn8mq7lchrpi632eaujab42s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjo2tGXn7cEmNYrc59Xj2yLTIJSE6BtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155240254949-f3565kdnn8mq7lchrpi632eaujab42s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
